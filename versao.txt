@@ -1,8 +1,2 @@
-System.out.println("b");
-<<<<<<< HEAD
-dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-<<<<<<< HEAD
-atualizacaooooo
-=======
-dddddweweeeweew
->>>>>>> master
+olaa
+hhhhhhhhh
