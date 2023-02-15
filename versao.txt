@@ -1,10 +1,3 @@
 System.out.println("b");
 <<<<<<< HEAD
-int a + b
-=======
-
-
-printf
-print 
-ddddddddddd
->>>>>>> secundaria
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
